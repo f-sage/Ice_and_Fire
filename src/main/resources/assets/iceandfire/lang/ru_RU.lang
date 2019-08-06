@@ -404,7 +404,7 @@ myrmex.caste_queen.name=Королева
 myrmex.caste_royal.name=Король
 myrmex.caste_sentinel.name=Страж
 amphithere.command.new_home=Этому амфитеру была установлена домашняя позиция в %d, %d, %d.
-amphithere.command.0=Этот амфмтер может перемещаться.
+amphithere.command.0=Этот амфитер может перемещаться.
 amphithere.command.1=Этот амфитер остаётся на месте.
 amphithere.command.2=Этот амфитер следует за вами.
 
